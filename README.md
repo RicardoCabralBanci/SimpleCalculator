@@ -1,13 +1,11 @@
 # Simple_Calculator
 Calculator using QT and python. (university project)
-<div>
-  ![Alt Text](Calculadora/Images/Calculadora_Científica_Imagem.png)
+<div align="center">
+  <img src="Calculadora/Images/Calculadora_Científica_Imagem.png" alt="Calculadora Científica" width="500" height="300" class="center">
 </div>
-<div>
-  ![Alt Text](Calculadora/Images/Calculadora_comum_Imagem.png)
+<div align="center">
+  <img src="Calculadora/Images/Calculadora_comum_Imagem.png" alt="Calculadora Científica" width="500" height="300" class="center">
 </div>
-<div>
-  ![Alt Text](Calculadora/Images/Menu_Calculadora_imaagem.png)
+<div align="center">
+  <img src="Calculadora/Images/Menu_Calculadora_imaagem" alt="Calculadora Científica" width="500" height="300" class="center">
 </div>
-![Alt Text](Calculadora/Images/Calculadora_comum_Imagem.png)
-![Alt Text](Calculadora/Images/Menu_Calculadora_imaagem.png)
