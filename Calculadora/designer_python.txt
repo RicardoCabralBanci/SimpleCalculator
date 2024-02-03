@@ -1,0 +1,2 @@
+pyuic5 Calculadora_Científica.ui -o Calculadora_Científica.py
+pyuic5 Calculadora_Comum.ui -o Calculadora_Comum.py
