@@ -1,4 +1,4 @@
-# Simple_Calculator
+# SimpleCalculator
 Calculator using QT and python. (university project)
 <div align="center">
   <img src="Calculadora/Images/Calculadora_Científica_Imagem.png" alt="Calculadora Científica" width="500" height="300" class="center">
